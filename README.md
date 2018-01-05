@@ -75,4 +75,4 @@ fun testThis(str: String) = if(str.lenght > 2) "Test1" else "Test2"
 
 [logo]: https://kotlinlang.org/assets/images/open-graph/kotlin_250x250.png "Kotlin logo"
 
-[check]: https://findicons.com/files/icons/1964/colorcons_green/128/checkmark.png "Checked"
+[check]: https://github.com/CriPstian/how-to-kotlin/raw/master/checkmark.png "Checked"
